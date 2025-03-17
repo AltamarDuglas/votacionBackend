@@ -2,6 +2,7 @@
 
 🚀 **Proyecto desarrollado por:**
 ### **DUGLAS ALTAMAR GÓMEZ**  
+### **VIVETH SEGOVIA ARGUMEDO**  
 📅 _2025_  
 
 ---
