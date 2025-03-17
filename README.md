@@ -2,7 +2,7 @@
 
 🚀 **Proyecto desarrollado por:**
 ### **DUGLAS ALTAMAR GÓMEZ**  
-📅 _2024_  
+📅 _2025_  
 
 ---
 
