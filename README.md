@@ -1,4 +1,32 @@
-<<<<<<< HEAD
+# 🗳️ Votación Backend con NestJS
+
+🚀 **Proyecto desarrollado por:**
+### **DUGLAS ALTAMAR GÓMEZ**  
+📅 _2024_  
+
+---
+
+## 📌 Descripción
+
+Este es un backend para un sistema de **votación** desarrollado en **NestJS**, con un enfoque modular y validaciones para garantizar la integridad de los datos.  
+
+📌 **Funcionalidades principales**:
+- CRUD de **Usuarios** 👤
+- CRUD de **Tipos de Candidatura** 🏛️
+- CRUD de **Candidatos** 🎖️
+- Validaciones para evitar duplicaciones 🔒
+- Conexión con GitHub y despliegue futuro 🌍
+
+---
+
+## ⚙️ **Tecnologías Utilizadas**
+- **NestJS** (Framework backend)
+- **TypeScript** (Lenguaje principal)
+- **Git & GitHub** (Control de versiones)
+- **Postman** (Para probar la API)
+- **Visual Studio Code** (IDE principal)
+
+---
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
