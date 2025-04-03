@@ -3,6 +3,7 @@
 🚀 **Proyecto desarrollado por:**
 ### **DUGLAS ALTAMAR GÓMEZ**  
 ### **VIVETH SEGOVIA ARGUMEDO**  
+### **KÁTHERIN TOBIO DORIA**  
 📅 _2025_  
 
 ---
